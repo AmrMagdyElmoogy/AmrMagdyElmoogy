@@ -45,7 +45,6 @@
 
 <img alt="GitHub" width="40px" src="https://docs.google.com/uc?export=download&id=1fkb6h66GdyddiOlDGXZecngQQoFs9yV0" />
 <img alt="Git" width="40px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />
-<a target="_blank" href="https://icons8.com/icon/7I3BjCqe9rjG/flutter">Flutter</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 </p>
 
 
