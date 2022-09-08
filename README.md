@@ -15,19 +15,26 @@
 <br />
 
 <p align="center">
- 
+
+
+  <img width="400" src ="https://user-images.githubusercontent.com/47532331/189239436-974c97c5-7788-4744-a39a-c5df9c9ce296.png" />
+  <img width = "400" src = "https://user-images.githubusercontent.com/47532331/189239744-7bdd956d-9088-406d-a1c0-d82ca2a57a06.png" />
  <a href="https://github.com/AmrMagdyElmoogy/Task_manager">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrMagdyElmoogy&repo=Task_manager&theme=tokyonight" />
 </a>
   <a href="https://github.com/YallaBusCorp/YallaBUS-flutter">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YallaBusCorp&repo=YallaBUS-flutter&theme=tokyonight" />
 </a>
-<a href="https://github.com/AmrMagdyElmoogy/News_app">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrMagdyElmoogy&repo=News_app&theme=tokyonight" />
+<img width="400" src ="https://user-images.githubusercontent.com/47532331/189240240-5b241aa9-1b5c-4df1-b408-d3446db1e900.png" />
+
+<a href="https://github.com/AmrMagdyElmoogy/Recipes">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrMagdyElmoogy&repo=Recipes&theme=tokyonight" />
 </a>
+
 </p>
 
 <br />
+
 
 <h2 align="center">About me 😇</h2>
 <br />
