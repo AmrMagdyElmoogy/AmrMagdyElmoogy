@@ -8,7 +8,8 @@
 </p>
 <br />
 
-<p>I develop android apps using Flutter and have a background of native android development with java, I gaduated with a Bachelor of Computer Science in 2022 with 88.86% Excellent with honor, ranked 2nd</p>
+<p>Entry-level Android developer with a strong foundation in native Android app development using Kotlin, and
+relevant experience in cross-platform development using Flutter</p>
 <br />
 
 <h2 align="center">My favorite projects 💻</h2>
