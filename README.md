@@ -27,11 +27,13 @@ relevant experience in cross-platform development using Flutter</p>
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=YallaBusCorp&repo=YallaBUS-flutter&theme=tokyonight" />
 </a>
 <img width="400" src ="https://user-images.githubusercontent.com/47532331/189240240-5b241aa9-1b5c-4df1-b408-d3446db1e900.png" />
-
+<img width="400" height = 200 src ="https://raw.githubusercontent.com/AmrMagdyElmoogy/Quotes/main/app/src/main/res/anim/MergedImages.png" />
 <a href="https://github.com/AmrMagdyElmoogy/Recipes">
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrMagdyElmoogy&repo=Recipes&theme=tokyonight" />
 </a>
-
+<a href="https://github.com/AmrMagdyElmoogy/Quotes">
+  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=AmrMagdyElmoogy&repo=Quotes&theme=tokyonight" />
+</a>
 </p>
 
 <br />
